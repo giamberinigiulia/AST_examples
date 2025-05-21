@@ -1,0 +1,12 @@
+# Maven build output
+target/
+
+# Eclipse project files
+.metadata/
+bin/
+.settings/
+.classpath
+.project
+
+# Ignore nested Git repositories
+**/.git/
